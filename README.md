@@ -1,8 +1,8 @@
 ### Olá! Me chamo Henrique Tomiatti 👾👽
 
-  <h3>Em busca de ser um Desenvolvedor FullStack</h3>
+  <h3>Em busca de ser um Desenvolvedor BackEnd</h3>
 <p>
-- 🔭 Atualmente estudando Javascript, Java, HTML e CSS.</p>
+- 🔭 Atualmente estudando principalmente Java e focando em  HTML, JavaScript e CSS.</p>
 <p>Cursando Análise e desenvolvimento de sistemas - UNIP - (2024-2026)</p>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomi_&theme=radical)
