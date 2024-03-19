@@ -2,7 +2,7 @@
 
   <h3>Em busca de ser um Desenvolvedor BackEnd</h3>
 <p>
-- 🔭 Atualmente estudando principalmente Java e focando em  HTML, JavaScript e CSS.</p>
+- 🔭 Focado em JAVA para desenvolvimento web.</p>
 <p>Cursando Análise e desenvolvimento de sistemas - UNIP - (2024-2025)</p>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomi_&theme=radical)
