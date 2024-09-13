@@ -1,9 +1,11 @@
-Hi! I'm Henrique Tomiatti 👾👽
-Fullstack Developer
+<h1>Hi! I'm Henrique Tomiatti 👾👽</h1>
 
-💻 Working with Flutter, Spring Boot, Dart, Java, Angular, and SQL.
+<h2>Fullstack Developer</h2>
 
-Currently studying Análise e Desenvolvimento de Sistemas(2024-2026).
+<p>💻 Working with <strong>Flutter, Spring Boot, Dart, Java, Angular, and SQL.</strong></p>
+
+<p>Currently studying <strong>Análise e Desenvolvimento de Sistemas</strong> (2024-2026).</p>
+
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomi_&theme=radical)
 
