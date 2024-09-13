@@ -1,9 +1,9 @@
-### Olá! Me chamo Henrique Tomiatti 👾👽
+Hi! I'm Henrique Tomiatti 👾👽
+Fullstack Developer
 
-  <h3>Em busca de ser um Desenvolvedor BackEnd</h3>
-<p>
-- 🔭 Focado em JAVA para desenvolvimento web.</p>
-<p>Cursando Análise e desenvolvimento de sistemas - UNIP - (2024-2025)</p>
+💻 Working with Flutter, Spring Boot, Dart, Java, Angular, and SQL.
+
+Currently studying Análise e Desenvolvimento de Sistemas(2024-2026).
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomi_&theme=radical)
 
