@@ -2,7 +2,7 @@
 
 <h2>Fullstack Developer</h2>
 
-<p>💻 Working with <strong>Flutter, Spring Boot, Dart, Java, Angular, and SQL.</strong></p>
+<p>💻 Working with <strong>Javascript, Flutter, Spring Boot, Dart, Java, Angular, and SQL.</strong></p>
 
 <p>Currently studying <strong>Análise e Desenvolvimento de Sistemas</strong> (2024-2026).</p>
 
